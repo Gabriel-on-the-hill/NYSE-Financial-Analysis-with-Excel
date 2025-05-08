@@ -1,0 +1,23 @@
+# Office documents (if sensitive or large)
+*.xlsx
+*.xls
+*.xlsm
+*.xlsb
+
+# PowerPoint or PDF presentations
+*.pptx
+*.pdf
+
+# Temporary or lock files
+~$*
+*.tmp
+*.bak
+*.lock
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
